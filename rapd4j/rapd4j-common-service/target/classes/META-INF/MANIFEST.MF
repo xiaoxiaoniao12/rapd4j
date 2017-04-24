@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Built-By: Lelonta
+Built-By: {xuzn}
 Build-Jdk: 1.6.0_13
 Class-Path: . lib/rapd4j-common-0.0.1-SNAPSHOT.jar lib/joda-time-2.5.j
  ar lib/commons-lang3-3.3.2.jar lib/commons-io-2.5.jar lib/commons-net
